@@ -10,6 +10,6 @@ A fun and simple app to browse, search, and explore your favorite movies! 🍿�
 |---|---|
 | 🌟 **Esha Shahzad** | Team Leader |
 | 🎨 **Sana Mehmood** | UI/UX Designing |
-| 💻 **Minhil** | Coding / Development |
-| 🐞 **Zafar** | Testing & Bug Fixing |
+| 💻 **Minahil** | Coding / Development |
+| 🐞 **Zafra** | Testing & Bug Fixing |
 | 📝 **Zainab** | Documentation & Research |
